@@ -1,0 +1,10 @@
+<h1>LIST OF NATIONAL PARKS</h1>
+
+<h3>RESULTS FOUND: <%= @parks_count %></h3>
+
+<% @parks.each do |park| %>
+<h3>NAME: <%= park.name %></h3>
+<h3>DESCRIPTION: <%= park.description %></h3>
+<h3>DIRECTION: <%= park.direction %></h3>
+<h3>HOURS: <%= park.hours_of_operation %></h3>
+<% end %>
