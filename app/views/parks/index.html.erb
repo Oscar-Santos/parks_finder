@@ -1,5 +1,7 @@
 <h1>LIST OF NATIONAL PARKS </h1>
 
+<h3>NUMBER OF PARKS: <%= @parks_count%> </h3>
+
 <% @parks.each do |park| %>
     <h3>NAME: <%= park.name %> </h3>
     <h3>DESCRIPTION: <%= park.description %> </h3>
