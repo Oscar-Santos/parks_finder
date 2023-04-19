@@ -3,7 +3,7 @@ class ParksFacade
         json = ParksService.get_list_of_parks(state)
 
         json[:data].map do |park|
-            Park.new(parks)
+            Park.new(park)
         end
     end
 end
