@@ -1,1 +1,8 @@
-Bingus
+<h1>LIST OF NATIONAL PARKS </h1>
+
+<% @parks.each do |park| %>
+    <h3>NAME: <%= park.name %> </h3>
+    <h3>DESCRIPTION: <%= park.description %> </h3>
+    <h3>DIRECTIONS: <%= park.directions %> </h3>
+    <h3>HOURS OF OPERATIONS: <%= park.hours %> </h3>
+<% end%>

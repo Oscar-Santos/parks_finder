@@ -1,6 +1,6 @@
 class ParksController < ApplicationController
     def index
-       @parks =  ParksFacade.get_list(params[:state])   
+       @parks =  ParksFacade.get_list(params[:state])  
     end
 end
 

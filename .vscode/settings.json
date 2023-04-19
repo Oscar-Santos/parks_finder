@@ -1,0 +1,11 @@
+{
+    "remote.extensionKind": {
+        
+        "vscode.css": [
+            "ui"
+        ]
+        "pub.name": [
+            "ui"
+        ]
+    }
+}

@@ -9,7 +9,6 @@ class Park
         @description = data[:description]
         @directions = data[:directionsInfo]
         @hours = data[:operatingHours][0][:standardHours]
-        require 'pry'; binding.pry
     end
 end
 
