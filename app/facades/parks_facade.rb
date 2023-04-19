@@ -6,9 +6,9 @@ class ParksFacade
             Park.new(park)
         end
     end
+
+    def self.parks_count(state)
+        json = ParksService.get_list_of_parks(state)[:total]
+    end
 end
 
-# - full name of the park
-# - description
-# - direction info
-# - standard hours for operation
