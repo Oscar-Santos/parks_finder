@@ -174,4 +174,3 @@ I am using the API from the US Government's National Park Service website.
 
 [Postman Link](https://api.postman.com/collections/20100024-aaca830e-96a3-4659-a525-6e6d685bdde9?access_key=PMAT-01GYFFE70BZ9R8GAESPYFAP7GT)
 
-[Postman Link](https://api.postman.com/collections/20100024-90256c87-43dd-4c51-ac83-e425189ae9cc?access_key=PMAT-01GYFFQ2R6RF5MBY0QQX9MR0BF)
