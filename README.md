@@ -14,9 +14,9 @@ I am using the API from the US Government's National Park Service website.
 
 #### Local Set Up
 - `fork` then `git clone` this repository
-- `cd tea_subsription` into the root directory
+- `cd parks_finder` into the root directory
 - `bundle install` to install dependencies
-- `rails db:{create,migrate,seed}`
+- `rails db:{create,migrate}`
 - `rails s` to start your server on `localhost:3000`
 
 #### Framework
