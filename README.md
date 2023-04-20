@@ -172,4 +172,4 @@ I am using the API from the US Government's National Park Service website.
 
 #### Postman Link
 
-[Postman Link for Endpoints](https://www.getpostman.com/collections/4121fc243381bef29818)
+[Postman Link for Endpoints](https://api.postman.com/collections/20100024)
