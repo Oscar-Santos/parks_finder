@@ -1,16 +1,15 @@
 # UNITED STATES NATIONAL PARKS FINDER
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+![image_1](https://user-images.githubusercontent.com/83252572/233377821-faeb2f79-c221-42c2-9cc8-cfa97100e0a8.jpeg)
+
+
 #### Overview
 Welcome to the USA National Parks Finder application! This app is designed to help you find the number of national parks by state and also gives you the address, a short description, directions, and hours of operation for each national park.
 
 Explore the incredible natural beauty of the United States of America, one national park at a time. With over 400 parks to choose from, each with its own unique landscapes, wildlife, and cultural heritage, the USA National Parks Finder app is your go-to guide for planning your next adventure. Whether you're looking to hike through mountains, marvel at waterfalls, or spot some of the country's rarest wildlife, this app has everything you need to plan the perfect trip. So, let's get started and discover the wonders of the USA's national parks!
 
 I am using the API from the US Government's National Park Service website.
-
-#### Schema
-![tea_subscription_db](https://user-images.githubusercontent.com/83252572/190515705-cc3ec9eb-8bd5-488d-83c0-d0af32e9abc1.png)
-
 
 
 #### Local Set Up
