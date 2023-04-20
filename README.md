@@ -60,7 +60,8 @@ I am using the API from the US Government's National Park Service website.
 `GET https://developer.nps.gov/api/v1/parks?&api_key=HCLwOsO9eeCSY8vOfbyFvyWWla5GygJkcQWAfK06&stateCode=CO`
 
 #### Response in JSON
-```{
+```
+{
     "total": "17",
     "limit": "50",
     "start": "0",
