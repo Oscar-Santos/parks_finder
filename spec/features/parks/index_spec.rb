@@ -12,8 +12,7 @@
 RSpec.describe Park do
     describe 'List of National Parks' do
         it 'returns a list of national parks' do
-            
+            park = ParksFacade.find_parks('TN').first
         end
     end
-
 end
